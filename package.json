@@ -1,0 +1,29 @@
+{
+  "name": "zod-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "gerardopemz",
+  "scripts": {
+    "01": "vitest run src/problemas/01-numeros.ts",
+    "02": "vitest run src/problemas/02-objetos.ts",
+    "03": "vitest run src/problemas/03-arreglos.ts",
+    "04": "vitest run src/problemas/04-inferencia.ts",
+    "05": "vitest run src/problemas/05-opcional.ts",
+    "06": "vitest run src/problemas/06-default.ts",
+    "07": "vitest run src/problemas/07-union.ts",
+    "07:alt": "vitest run src/problemas/07-union-alternativa.ts",
+    "08": "vitest run src/problemas/08-validaciones.ts",
+    "09": "vitest run src/problemas/09-componer-objetos.ts",
+    "09:alt": "vitest run src/problemas/09-componer-objetos-alternativa.ts",
+    "10": "vitest run src/problemas/10-transformacion.ts",
+    "11": "vitest run src/problemas/11-refinar.ts",
+    "12": "vitest run src/problemas/12-refinar-async.ts"
+  },
+  "dependencies": {
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "vitest": "^1.6.0"
+  }
+}
