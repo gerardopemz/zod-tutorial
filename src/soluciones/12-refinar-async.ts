@@ -1,3 +1,12 @@
+/**
+ * @GeraCode
+ *
+ * Problema 12: Refinar el esquema de forma asíncrona
+ *
+ * Actualizar el esquema `Form` para que cheque si la persona existe.
+ * Esta validación debe ser asíncrona.
+ */
+
 import { expect, it } from "vitest";
 import { z } from "zod";
 

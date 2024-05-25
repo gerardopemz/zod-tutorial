@@ -1,3 +1,12 @@
+/**
+ * @GeraCode
+ *
+ * Problema 10: Transforma datos dentro de un esquema
+ *
+ * Actualizar el esquema `FakePerson` para que agregar un campo dinámico
+ * llamado `nameAsArray` que sea un array de los nombres de la persona.
+ */
+
 import { expect, it } from "vitest";
 import { z } from "zod";
 

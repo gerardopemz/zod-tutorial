@@ -1,10 +1,14 @@
-import { z } from "zod";
-import { Equal, Expect } from "../helpers/type-utils";
-
 /**
+ * @GeraCode
+ *
+ * Problema 09: Reducir código duplicado componiendo esquemas
+ *
  * Modificar el siguiente código para reducir la duplicación
  * y asegurarse de que los casos no se vuelvan rojos.
  */
+
+import { z } from "zod";
+import { Equal, Expect } from "../helpers/type-utils";
 
 const Id = z.string().uuid();
 

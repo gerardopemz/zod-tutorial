@@ -1,3 +1,11 @@
+/**
+ * @GeraCode
+ *
+ * Problema 05: Esquemas opcionales
+ *
+ * Actualizar el esquema `Form` para que el campo `phoneNumber` sea opcional.
+ */
+
 import { expect, it } from "vitest";
 import { z } from "zod";
 

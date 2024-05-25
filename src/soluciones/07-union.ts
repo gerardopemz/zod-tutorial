@@ -1,3 +1,12 @@
+/**
+ * @GeraCode
+ *
+ * Problema 07: Valores permitidos
+ *
+ * Actualizar el esquema `Form` para que el campo `privacyLevel` sea de tipo
+ * string, y que se permita unicamente los valores `privado` y `publico`.
+ */
+
 import { expect, it } from "vitest";
 import { z } from "zod";
 

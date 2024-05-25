@@ -1,3 +1,19 @@
+/**
+ * @GeraCode
+ *
+ * Problema 08: Esquema con validaciones adicionales
+ *
+ * Actualizar el esquema `Form` para agregar validaciones adicionales
+ * a los campos `phoneNumber`, `email`, y `website`.
+ * phoneNumber:
+ *   - Debe tener al menos 5 dígitos.
+ *   - Debe tener máximo 20 dígitos.
+ * email:
+ *   - Debe ser un correo válido.
+ * website:
+ *   - Debe ser una URL válida.
+ */
+
 import { expect, it } from "vitest";
 import { z } from "zod";
 

@@ -1,3 +1,11 @@
+/**
+ * @GeraCode
+ *
+ * Problema 11: Refinar el esquema
+ *
+ * Actualizar el esquema `Form` para que cheque que las contraseñas sean iguales.
+ */
+
 import { expect, it } from "vitest";
 import { z } from "zod";
 

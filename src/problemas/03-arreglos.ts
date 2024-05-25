@@ -1,3 +1,12 @@
+/**
+ * @GeraCode
+ *
+ * Problema 03: Verificar APIs desconocidas con un esquema de arreglo
+ *
+ * Crear un esquema de Zod para la respuesta de la API que regresa
+ * un arreglo de objetos con los datos de varias personas.
+ */
+
 import { expect, it } from "vitest";
 import { z } from "zod";
 

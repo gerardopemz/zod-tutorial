@@ -1,3 +1,12 @@
+/**
+ * @GeraCode
+ *
+ * Problema 06: Valores predeterminados
+ *
+ * Actualizar el esquema `Form` para que el campo `keywords` sea opcional
+ * y que se agregue un valor por defecto si no se proporciona.
+ */
+
 import { expect, it } from "vitest";
 import { z } from "zod";
 

@@ -1,3 +1,11 @@
+/**
+ * @GeraCode
+ *
+ * Problema 01: Comprobación de tipos en tiempo de ejecución con Zod
+ *
+ * Utilizar Zod para actualizar el método `toString` y que las pruebas pasen sin errores.
+ */
+
 import { expect, it } from "vitest";
 import { z } from "zod";
 

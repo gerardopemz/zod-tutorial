@@ -1,3 +1,12 @@
+/**
+ * @GeraCode
+ *
+ * Problema 02: Verificar APIs desconocidas con un esquema de objeto
+ *
+ * Crear un esquema de Zod para la respuesta de la API que regresa
+ * un objeto con los datos de una persona.
+ */
+
 import { expect, it } from "vitest";
 import { z } from "zod";
 
