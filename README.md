@@ -10,8 +10,6 @@
 
 📺 [Lista de reproducción de YouTube](https://www.youtube.com/playlist?list=PL_zJfvmWCtO0ClMGj32Lrun7TnKQNNbJ0) para este repositorio.
 
-This Zod tutorial will give you everything you ever needed to know about Zod - an amazing library for building type-safe AND runtime-safe applications.
-
 Este tutorial de introducción a Zod te enseñará todo lo que necesitas saber sobre Zod - una herramienta
 para construir aplicaciones de tipado seguro y ejecución segura.
 
